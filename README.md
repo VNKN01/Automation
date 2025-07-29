@@ -1,3 +1,13 @@
+## Quick Launch with BAT File
+
+A `RunExamAutomation.bat` file is included for one-click execution.
+
+### How to use:
+1. Place `RunExamAutomation.bat` and `CreateExamFolders_AnyPC.ps1` in the same folder.
+2. **Right-click `RunExamAutomation.bat` → Run as Administrator**.
+3. Follow the on-screen prompts.
+
+This batch file automatically bypasses the execution policy and runs the PowerShell script without requiring manual commands.
 # Automation
 Automation script to create a yearly exam folder structure for Virtual University (Nankana Sahib Campus). Generates date-wise subfolders for Mid-Term and Final-Term exam data to organize files efficiently.
 # Exam Folder Structure Automation – Virtual University (Nankana Sahib Campus)
